@@ -1,0 +1,51 @@
+/* p.rita {
+    color: red;
+}
+
+p.success {
+    color: #4fdb4f;
+}
+
+p.success.feedback {
+    border: 2px dotted #4fdb4f;
+}
+
+#content {
+    background-color: bisque;
+    padding: 10px;
+
+} */
+
+/* div .rita {
+    color: rgb(205, 50, 50);
+} */
+
+/* a[href*="thenetninja"] {
+    background-color: #3dd13d;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+a[href*="google"] {
+    color: wheat;
+    background: red;
+    border: 2px dashed blue;
+} */
+div {
+    color: lightcoral;
+    border: 4px solid grey;
+    margin: 40px;
+    font-weight: bold;
+}
+
+p {
+    border: inherit;
+    margin: inherit;
+    color: green;
+}
+
+p {
+    color: blue;
+}

@@ -1,0 +1,18 @@
+.LX3sZb {
+    display: inline block;
+    flex-grow: 1;
+}
+
+div {
+    display: block;
+}
+
+.four {
+    box-sizing: border-box;
+    height: 48px;
+    line-height: normal;
+    padding: 0 4px;
+    -webkit-box-flex: 0;
+    justify-content: end;
+    color: red;
+}
